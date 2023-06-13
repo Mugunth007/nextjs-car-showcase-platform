@@ -1,0 +1,1 @@
+# nextjs-car-showcase-platform
